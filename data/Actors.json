@@ -1,11 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"Informer_1","characterIndex":0,"characterName":"Informer_1","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Informer_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Informer","nickname":"Michael-ine","note":"","profile":""},
-{"id":2,"battlerName":"Outlaw_1","characterIndex":0,"characterName":"Outlaw_1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Outlaw_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Outlaw","nickname":"Brian","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Outlaw_1","characterIndex":0,"characterName":"Outlaw_1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Outlaw_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Outlaw","nickname":"Brian","note":"","profile":""}
 ]
