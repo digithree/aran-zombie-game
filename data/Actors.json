@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Informer_1","characterIndex":0,"characterName":"Informer_1","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Informer_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Informer","nickname":"Michael-ine","note":"","profile":""},
+{"id":1,"battlerName":"Informer_1","characterIndex":0,"characterName":"Informer_1","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Informer_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Michael-ine","nickname":"Michael-ine","note":"","profile":""},
 {"id":2,"battlerName":"Outlaw_1","characterIndex":0,"characterName":"Outlaw_1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Outlaw_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brian","nickname":"Brian","note":"","profile":""}
 ]
